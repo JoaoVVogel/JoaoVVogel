@@ -21,6 +21,6 @@ I Love code and create new stuff, i like to learn about new technologies and div
 
 ## What I don't know, give me a few days 😁
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=JoaoVVogel&show_icons=true&title_color=008000&icon_color=00a8ff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/JoaoVVogel)
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=JoaoVVogel&show_icons=true&bg_color=00000000)](https://github.com/JoaoVVogel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVVogel&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/JoaoVVogel)
