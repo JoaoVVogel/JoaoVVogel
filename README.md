@@ -23,5 +23,3 @@ I Love code and create new stuff, i like to learn about new technologies and div
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVVogel&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/JoaoVVogel)
 
-
-[//logos https://github.com/alexandresanlim/Badges4-README.md-Profile](url)
