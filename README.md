@@ -6,9 +6,7 @@
 
 ## About me:
 
-I'm going to be a Fullstack Developer :smile:
-
-I Love code and create new stuff, i like to learn about new technologies and dive deep in solving problems.
+I'm going to be a Developer :smile:
 
 ## My specialties:
 
